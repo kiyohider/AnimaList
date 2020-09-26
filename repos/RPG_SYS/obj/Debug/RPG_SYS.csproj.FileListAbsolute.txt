@@ -1,0 +1,42 @@
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\obj\Debug\RPG_SYS.Form1.resources
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\obj\Debug\RPG_SYS.Properties.Resources.resources
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\obj\Debug\RPG_SYS.csproj.GenerateResource.cache
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\obj\Debug\RPG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\bin\Debug\RPG_SYS.exe.config
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\bin\Debug\RPG_SYS.exe
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\bin\Debug\RPG_SYS.pdb
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\obj\Debug\RPG_SYS.csprojAssemblyReference.cache
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\obj\Debug\RPG_SYS.exe
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\obj\Debug\RPG_SYS.pdb
+C:\Users\Sim\source\repos\RPG_SYS\RPG_SYS\obj\Debug\RPG_SYS.lista.resources
+D:\kiyohide\Documents\proj\RPG_SYS\bin\Debug\RPG_SYS.exe.config
+D:\kiyohide\Documents\proj\RPG_SYS\bin\Debug\RPG_SYS.exe
+D:\kiyohide\Documents\proj\RPG_SYS\bin\Debug\RPG_SYS.pdb
+D:\kiyohide\Documents\proj\RPG_SYS\obj\Debug\RPG_SYS.lista.resources
+D:\kiyohide\Documents\proj\RPG_SYS\obj\Debug\RPG_SYS.Properties.Resources.resources
+D:\kiyohide\Documents\proj\RPG_SYS\obj\Debug\RPG_SYS.csproj.GenerateResource.cache
+D:\kiyohide\Documents\proj\RPG_SYS\obj\Debug\RPG_SYS.csproj.CoreCompileInputs.cache
+D:\kiyohide\Documents\proj\RPG_SYS\obj\Debug\RPG_SYS.exe
+D:\kiyohide\Documents\proj\RPG_SYS\obj\Debug\RPG_SYS.pdb
+D:\kiyohide\Documents\proj\RPG_SYS\obj\Debug\RPG_SYS.csprojAssemblyReference.cache
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\bin\Debug\RPG_SYS.exe.config
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\bin\Debug\RPG_SYS.exe
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\bin\Debug\RPG_SYS.pdb
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\obj\Debug\RPG_SYS.csprojAssemblyReference.cache
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\obj\Debug\RPG_SYS.lista.resources
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\obj\Debug\RPG_SYS.Properties.Resources.resources
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\obj\Debug\RPG_SYS.csproj.GenerateResource.cache
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\obj\Debug\RPG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\obj\Debug\RPG_SYS.exe
+C:\Users\Sim\Downloads\natan\prototype\animalist\RPG_SYS\obj\Debug\RPG_SYS.pdb
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\bin\Debug\RPG_SYS.exe.config
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\bin\Debug\RPG_SYS.exe
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\bin\Debug\RPG_SYS.pdb
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\obj\Debug\RPG_SYS.lista.resources
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\obj\Debug\RPG_SYS.Menu.resources
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\obj\Debug\RPG_SYS.Properties.Resources.resources
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\obj\Debug\RPG_SYS.csproj.GenerateResource.cache
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\obj\Debug\RPG_SYS.csproj.CoreCompileInputs.cache
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\obj\Debug\RPG_SYS.exe
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\obj\Debug\RPG_SYS.pdb
+C:\Users\Sim\Downloads\natan\prototype\lista_anime last\RPG_SYS\obj\Debug\RPG_SYS.csprojAssemblyReference.cache

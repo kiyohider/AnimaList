@@ -1,0 +1,173 @@
+	11 Eyes	|	12	|	1	|	366	|	2009	|	1	|	Assistido
+	30-Sai No Hoken Taiiku	|	12	|	1	|	366	|	2011	|	1	|	Assistido
+	Absolute Duo	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Accel World	|	24	|	1	|	366	|	2012	|	1	|	Assistido
+	Afro Samurai	|	5	|	2	|	366	|	2007	|	1	|	Assistido
+	Air Gear	|	25	|	1	|	366	|	2006	|	1	|	Assistido
+	Akame Ga Kill!	|	24	|	1	|	366	|	2014	|	1	|	Assistido
+	Akatsuki no Yona	|	24	|	1	|	366	|	2014	|	1	|	Assistido
+	Akikan	|	12	|	1	|	366	|	2009	|	1	|	Assistido
+	Amagi Brilhant Park	|	13	|	1	|	366	|	2014	|	1	|	Assistido
+	Angel Beats	|	13	|	1	|	366	|	2010	|	1	|	Assistido
+	Ano Hana	|	11	|	1	|	366	|	2011	|	1	|	Assistido
+	Ano Natsu De Matteru	|	12	|	1	|	366	|	2012	|	1	|	Assistido
+	Another	|	12	|	1	|	366	|	2010	|	1	|	Assistido
+	Ao No Exorcist	|	37	|	2	|	366	|	2011	|	1	|	Assistido
+	Aoharu X Kikanjuu	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Aoi Sekai No Chuushin De	|	3	|	1	|	366	|	2012	|	1	|	Assistido
+	Arakawa Under The Brigde	|	26	|	2	|	1	|	2010	|	1	|	Assistindo
+	Arata Kangatari	|	12	|	1	|	366	|	2013	|	1	|	Assistido
+	Bakuman	|	75	|	3	|	366	|	2010	|	1	|	Assistido
+	Ben-To	|	12	|	1	|	366	|	2011	|	1	|	Assistido
+	Black Bullet	|	13	|	1	|	366	|	2014	|	1	|	Assistido
+	Black Cat	|	24	|	1	|	366	|	2005	|	1	|	Assistido
+	Black Rock Shooter	|	8	|	1	|	366	|	2012	|	1	|	Assistido
+	Bleach	|	366	|	16	|	366	|	2004	|	1	|	Assistido
+	Blood Lab	|	10	|	1	|	366	|	2013	|	1	|	Assistido
+	Blood-C	|	12	|	1	|	366	|	2011	|	1	|	Assistido
+	Boku Dake Ga Inai Machi	|	12	|	1	|	366	|	2016	|	1	|	Assistido
+	Boku No Hero Academia	|	88	|	4	|	2	|	2016	|	1	|	Assistindo
+	Btooom	|	12	|	1	|	366	|	2012	|	1	|	Assistido
+	Busou Renkin	|	26	|	1	|	366	|	2006	|	1	|	Assistido
+	C - Money The Possibility Control	|	11	|	1	|	366	|	2011	|	1	|	Assistido
+	Campione!	|	13	|	1	|	366	|	2012	|	1	|	Assistido
+	Chaos Dragon Sekiryuu	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Chaos;Head	|	12	|	1	|	366	|	2008	|	1	|	Assistido
+	Charlotte	|	13	|	1	|	366	|	2015	|	1	|	Assistido
+	Chrno Crusade	|	24	|	1	|	366	|	2006	|	1	|	Assistido
+	Chuunibyou Demo Koi Ga Shitai	|	26	|	2	|	366	|	2012	|	1	|	Assistido
+	Claymore	|	26	|	1	|	366	|	2007	|	1	|	Assistido
+	Code Geass	|	50	|	1	|	366	|	2008	|	1	|	Assistido
+	Code:BREAKER	|	13	|	1	|	366	|	2012	|	1	|	Assistido
+	Corpse Party: Tortured Souls	|	4	|	1	|	366	|	2013	|	1	|	Assistido
+	Cuticle Tantei Inaba	|	12	|	1	|	366	|	2013	|	1	|	Assistido
+	Dakara Boku Wa H Ga Dekinai	|	12	|	1	|	366	|	2012	|	1	|	Assistido
+	Danganronpa: The Animation	|	13	|	1	|	366	|	2013	|	1	|	Assistido
+	Dansai Bunri No Crime Edge	|	13	|	1	|	366	|	2013	|	1	|	Assistido
+	Date A Live	|	34	|	3	|	24	|	2013	|	1	|	Assistindo
+	Deadman Wonderland	|	12	|	1	|	366	|	2011	|	1	|	Assistido
+	Death Note	|	37	|	1	|	366	|	2006	|	1	|	Assistido
+	Death Parade	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Densetsu No Yuusha No Densetsu	|	24	|	1	|	366	|	2010	|	1	|	Assistido
+	Devil May Cry	|	12	|	1	|	366	|	2007	|	1	|	Assistido
+	Devils And Realists	|	12	|	1	|	366	|	2013	|	1	|	Assistido
+	Dragonaut: The Resonance	|	26	|	1	|	366	|	2007	|	1	|	Assistido
+	Drifters	|	12	|	1	|	366	|	2016	|	1	|	Assistido
+	Dungeon Ni Deai	|	24	|	2	|	12	|	2015	|	1	|	Assistindo
+	Elfen Lied	|	13	|	1	|	366	|	2004	|	1	|	Assistido
+	Fairy Tail	|	328	|	3	|	366	|	2009	|	1	|	Assistido
+	Fate Apocrypha	|	25	|	1	|	366	|	2017	|	1	|	Assistido
+	Fate Stay Night	|	24	|	1	|	366	|	2006	|	1	|	Assistido
+	Fate Stay Night UBW	|	27	|	2	|	366	|	2014	|	1	|	Assistido
+	Fate Zero	|	25	|	2	|	366	|	2011	|	1	|	Assistido
+	Fate/Grand Order - Absolute Demonic Front: Babylonia	|	25	|	1	|	25	|	2019	|	1	|	Assistindo
+	Freezeing Vibration	|	24	|	1	|	366	|	2011	|	1	|	Assistido
+	Fullmetal Alchemist Brotherhood	|	64	|	1	|	366	|	2009	|	1	|	Assistido
+	Futari No Ecchi	|	4	|	1	|	366	|	2002	|	1	|	Assistido
+	Gakkou Gurashi	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Gakusen Toshi Asterisk	|	24	|	1	|	366	|	2015	|	1	|	Assistido
+	Gantz	|	26	|	2	|	366	|	2004	|	1	|	Assistido
+	God Eater	|	13	|	1	|	366	|	2015	|	1	|	Assistido
+	Gokukoku No Brynhildr	|	13	|	1	|	366	|	2014	|	1	|	Assistido
+	Gosick	|	24	|	1	|	366	|	2011	|	1	|	Assistido
+	Guilty Crown	|	22	|	1	|	366	|	2011	|	1	|	Assistido
+	Hagure Yuusha No Estetica	|	12	|	1	|	366	|	2012	|	1	|	Assistido
+	Hai To Gensou No Grimgar	|	12	|	1	|	366	|	2016	|	1	|	Assistido
+	Hamatora	|	24	|	2	|	366	|	2014	|	1	|	Assistido
+	Hataraku Maou-Sama!	|	13	|	1	|	366	|	2013	|	1	|	Assistido
+	Hellsing	|	13	|	1	|	366	|	2001	|	1	|	Assistido
+	Hellsing The Dawn	|	3	|	1	|	366	|	2011	|	1	|	Assistido
+	Hellsing Ultimate	|	10	|	1	|	366	|	2006	|	1	|	Assistido
+	Hentai Ouji To Warawanai Neko	|	12	|	1	|	366	|	2013	|	1	|	Assistido
+	Hidan No Aria	|	12	|	1	|	366	|	2011	|	1	|	Assistido
+	High School DxD	|	48	|	4	|	366	|	2012	|	1	|	Assistido
+	HighSchool Of The Dead	|	12	|	1	|	366	|	2010	|	1	|	Assistido
+	Hitsugi No Chaika	|	23	|	2	|	366	|	2014	|	1	|	Assistido
+	Hundred	|	12	|	1	|	366	|	2016	|	1	|	Assistido
+	Hunter X Hunter(2011)	|	148	|	1	|	366	|	2011	|	1	|	Assistido
+	Hyouka	|	22	|	1	|	366	|	2012	|	1	|	Assistido
+	Ichiban Ushiro No Daimaou	|	12	|	1	|	366	|	2010	|	1	|	Assistido
+	Inou Battle Wa Nichijoukei No Naka De	|	12	|	1	|	366	|	2014	|	1	|	Assistido
+	Inu X Boku SS	|	12	|	1	|	366	|	2012	|	1	|	Assistido
+	Inuyasha	|	193	|	7	|	366	|	2000	|	1	|	Assistido
+	Juuni Taisen	|	12	|	1	|	366	|	2017	|	1	|	Assistido
+	K	|	26	|	2	|	1	|	2012	|	1	|	Assistindo
+	Kaichou Wa Maid-Sama	|	26	|	1	|	366	|	2010	|	1	|	Assistido
+	Kami Nomi Zo Shiru Sekai	|	36	|	3	|	366	|	2010	|	1	|	Assistido
+	Kamisama Hajimemashita	|	24	|	2	|	366	|	2012	|	1	|	Assistido
+	Kami-Sama No Inai Nichiyoubi	|	12	|	1	|	366	|	2013	|	1	|	Assistido
+	Kangoku Gakuen	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	karneval	|	13	|	1	|	366	|	2013	|	1	|	Assistido
+	Kekkai sensen	|	24	|	2	|	366	|	2015	|	1	|	Assistido
+	Kill La Kill	|	25	|	1	|	366	|	2015	|	1	|	Assistido
+	Kiseijuu	|	24	|	1	|	366	|	2015	|	1	|	Assistido
+	konjiki No Gash Bell	|	150	|	3	|	366	|	2003	|	1	|	Assistido
+	Kore Wa Zombie Desu Ka?	|	24	|	2	|	366	|	2015	|	1	|	Assistido
+	Koutetsujou No Kabaneri	|	12	|	1	|	366	|	2016	|	1	|	Assistido
+	Kyoukai No Kanata	|	13	|	1	|	366	|	2013	|	1	|	Assistido
+	Level E	|	13	|	1	|	366	|	2011	|	1	|	Assistido
+	Magi	|	50	|	2	|	366	|	2012	|	1	|	Assistido
+	Magi Sinbad No Brouken	|	13	|	1	|	366	|	2016	|	1	|	Assistido
+	Mahou Sensou	|	12	|	1	|	366	|	2014	|	1	|	Assistido
+	Mahouka Koukou No Rettousei	|	26	|	1	|	366	|	2014	|	1	|	Assistido
+	Mangaka-San To Assistant-San To	|	12	|	1	|	366	|	2014	|	1	|	Assistido
+	Mekakucity Actors	|	12	|	1	|	366	|	2014	|	1	|	Assistido
+	Mikakunin De Shinkoukei	|	12	|	1	|	366	|	2014	|	1	|	Assistido
+	Mirai Nikki	|	26	|	1	|	366	|	2011	|	1	|	Assistido
+	Mob Pysico 100%	|	25	|	2	|	366	|	2018	|	1	|	Assistido
+	Mondaiji-Tachi Ga Isekai Kara Kuru Sou Desu Yo	|	10	|	1	|	366	|	2013	|	1	|	Assistido
+	Monogatari	|	103	|	14	|	1	|	2015	|	1	|	Assistindo
+	Nanatsu No Taizai	|	60	|	3	|	1	|	2014	|	1	|	Assistindo
+	Natsume Yuujinchou	|	74	|	6	|	1	|	2008	|	1	|	Assistindo
+	Netoge No Yome	|	12	|	1	|	366	|	2016	|	1	|	Assistido
+	Nisekoi	|	32	|	2	|	366	|	2014	|	1	|	Assistido
+	Nizi X Kimi	|	3	|	1	|	366	|	2014	|	1	|	Assistido
+	No Game No Life	|	12	|	1	|	366	|	2014	|	1	|	Assistido
+	Noragami	|	25	|	2	|	366	|	2013	|	1	|	Assistido
+	Okusama Ga Seitokaichou	|	24	|	1	|	366	|	2015	|	1	|	Assistido
+	One Punch Man	|	24	|	2	|	1	|	2015	|	1	|	Assistindo
+	Ore Ga Ojousama	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Owari No Seraph	|	24	|	2	|	366	|	2015	|	1	|	Assistido
+	Pandora Hearts	|	25	|	1	|	366	|	2009	|	1	|	Assistido
+	Plastic Memories	|	13	|	1	|	366	|	2015	|	1	|	Assistido
+	Rakudai Kishi No Cavalry	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Relife	|	17	|	1	|	366	|	2016	|	1	|	Assistido
+	Rewrite	|	24	|	2	|	366	|	2016	|	1	|	Assistido
+	Saint Seiya The Lost Canvas	|	26	|	2	|	366	|	2009	|	1	|	Assistido
+	Sakurasou No Pet Na Kanojo	|	24	|	1	|	366	|	2012	|	1	|	Assistido
+	Samurai Champloo	|	26	|	1	|	366	|	2005	|	1	|	Assistido
+	School Days	|	12	|	1	|	366	|	2007	|	1	|	Assistido
+	Seiken No Blacksmith	|	12	|	1	|	366	|	2009	|	1	|	Assistido
+	Seikoku No Dragonar	|	12	|	1	|	366	|	2014	|	1	|	Assistido
+	Shakugan No Shana	|	76	|	4	|	366	|	2005	|	1	|	Assistido
+	Shaman King	|	64	|	1	|	366	|	2001	|	1	|	Assistido
+	Shimoneta	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Shingeki No Kyojin	|	59	|	3	|	366	|	2013	|	1	|	Assistido
+	Shinmai Maou No Testament	|	23	|	2	|	366	|	2015	|	1	|	Assistido
+	Soul Eater	|	51	|	1	|	366	|	2008	|	1	|	Assistido
+	Sousei No Onmyouji	|	50	|	1	|	366	|	2016	|	1	|	Assistido
+	Suisei No Gargantia	|	15	|	1	|	366	|	2013	|	1	|	Assistido
+	Suki-Tte Li Na Yo	|	13	|	1	|	366	|	2012	|	1	|	Assistido
+	Supernatural Anime	|	22	|	1	|	366	|	2011	|	1	|	Assistido
+	Sword Art Online	|	85	|	3	|	366	|	2012	|	1	|	Assistido
+	Sword Of Oratoria	|	12	|	1	|	366	|	2017	|	1	|	Assistido
+	Tenchi Muyo! Ryo-Ohki	|	24	|	4	|	1	|	1993	|	1	|	Assistindo
+	Terra Formas	|	26	|	1	|	366	|	2014	|	1	|	Assistido
+	Tiger E Banny	|	25	|	1	|	366	|	2011	|	1	|	Assistido
+	To Aru Majutsu No Index	|	74	|	3	|	1	|	2008	|	1	|	Assistindo
+	To Be Hero	|	24	|	2	|	366	|	2016	|	1	|	Assistido
+	To Love Ru	|	64	|	4	|	1	|	2008	|	1	|	Assistindo
+	Tokyo Ghoul	|	48	|	3	|	366	|	2014	|	1	|	Assistido
+	Tonari No Kaibutsu-Kun	|	13	|	1	|	366	|	2012	|	1	|	Assistido
+	Tonari No Seki-Kun	|	21	|	1	|	366	|	2014	|	1	|	Assistido
+	Towa No Quon	|	6	|	1	|	366	|	2011	|	1	|	Assistido
+	Tsukihime	|	12	|	1	|	366	|	2003	|	1	|	Assistido
+	Vampire Knight	|	26	|	2	|	366	|	2008	|	1	|	Assistido
+	Yamada-kun To 7 Nin No Majo	|	12	|	1	|	366	|	2015	|	1	|	Assistido
+	Yumeria	|	12	|	1	|	366	|	2004	|	1	|	Assistido
+	Yuusha Ni Narenakatta Ore Wa Shibushibu Shuushoku Wo Ketsui Shimashita	|	12	|	1	|	366	|	2013	|	1	|	Assistido
+	Zankyou No Terror	|	11	|	1	|	366	|	2014	|	1	|	Assistido
+	Zero No Tsukaima	|	49	|	4	|	366	|	2006	|	1	|	Assistido
+	Zetman	|	13	|	1	|	366	|	2012	|	1	|	Assistido
+	Zetsuen No Tempest	|	24	|	1	|	366	|	2012	|	1	|	Assistido
+	Zombie-Loan	|	13	|	1	|	366	|	2007	|	1	|	Assistido
